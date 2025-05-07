@@ -1,6 +1,9 @@
 # mini-calc
 a small scientific calculator, written in pascal.
 
+## Installing this app
+Just copy all files into one directory of your choice. That's it.
+
 ## Intro
 This small calculator app works text based.
 
