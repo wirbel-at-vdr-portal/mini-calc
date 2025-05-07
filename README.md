@@ -7,19 +7,19 @@ This small calculator app works text based.
 Therefore, the small display window is the most important user input, you may write here without using any button.
 The buttons are basically just support to remember the syntax.
 
-You may define variables and use them in one line of text. They are active for just one text line. If you press the '=' button or use <ENTER>, the result is evaluated and printed into the very next line. Also, the last result can be pasted into text using the 'ANS' button. But remember, this is text-based. You have to check the text..
+You may define variables and use them in one line of text. They are active for just one text line. If you press the *=* button or use *ENTER*, the result is evaluated and printed into the very next line. Also, the last result can be pasted into text using the *ANS* button. But remember, this is text-based. You have to check the text..
 
 ![Image mini-calc](image1.png)
 
 ## Entering formulas
 One example to enter a formula, is to convert power in dBm. for a power of 9.2 mega watts..
-You would enter '10*log10(9.2M/1m)'. You may use the help of the buttons, or type directly into the input window.
+You would enter `10*log10(9.2M/1m)`. You may use the help of the buttons, or type directly into the input window.
 
 * log10 means log to the base of 10
 * 9.2M means 9.2 mega (watts)
 * 1m means 1 milli (watts)
 
-After that, you press <ENTER>, or click on the '=' button.
+After that, you press *ENTER*, or click on the *=* button.
 
 ## Features
 *  rnd   Generate a random number between 0 and 1
@@ -63,7 +63,7 @@ After that, you press <ENTER>, or click on the '=' button.
 *  convert bits <-> integer <-> hex numbers, and bit-shift them  
 
 ## Using the help button
-There is a basic help function. The 'Help' button opens a new window with some basic instructions.
+There is a basic help function. The *Help* button opens a new window with some basic instructions.
 
 ![Image help](image2.png)
 
