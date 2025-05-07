@@ -16,8 +16,8 @@ One example to enter a formula, is to convert power in dBm. for a power of 9.2 m
 You would enter `10*log10(9.2M/1m)`. You may use the help of the buttons, or type directly into the input window.
 
 * log10 means log to the base of 10
-* 9.2M means 9.2 mega (watts)
-* 1m means 1 milli (watts)
+* 9.2M means 9.2 mega (watts) -> 9.2e6
+* 1m means 1 milli (watts) -> 1e-3
 
 After that, you press *ENTER*, or click on the *=* button.
 
