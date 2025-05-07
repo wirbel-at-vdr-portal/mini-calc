@@ -49,7 +49,8 @@ You may define variables and use them in one line of text. They are active for j
 *  SI system multipliers, Peta..femto are available as postfixes.
    *  1M -> 1Mega == 1e6
    *  1m -> 1milli == 1e-6
-   *  1µ -> 1micro == 1e-6 
+   *  1µ -> 1micro == 1e-6
+*  convert bits <-> integer <-> hex numbers, and bit-shift them  
 
 ## Using the help button
 There is a basic help function. The 'Help' button opens a new window with some basic instructions.
