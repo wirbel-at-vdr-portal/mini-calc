@@ -56,7 +56,7 @@ The same formula as above, but now we use two variables, p and r.
 *  ln    logarithm to base e (2.718)
 *  exp   e raised to the power of x
 *  sqrt  square root of a value
-*  ^     power of, ie. 3^2 == 8
+*  ^     power of, ie. 3^2 == 9
 *  fac   factorial, usually written as exclamation after number
 *  sign  sign function -1 if x<0; 1 if x>0
 *  rint  round to nearest integer
