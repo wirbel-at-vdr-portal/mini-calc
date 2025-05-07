@@ -21,6 +21,12 @@ You would enter `10*log10(9.2M/1m)`. You may use the help of the buttons, or typ
 
 After that, you press *ENTER*, or click on the *=* button.
 
+## Using variables
+Variables may be used, they are valid in the line in which they appear:
+`p=9.2M;r=1e-3;10*log10(p/1m)`
+
+The same formula as above, but now we use two variables, p and r.
+
 ## Features
 *  rnd   Generate a random number between 0 and 1
 *  sin   sine function
